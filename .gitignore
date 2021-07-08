@@ -1,0 +1,20 @@
+.DS_STORE
+
+/dist/
+/bazel-out
+/integration/bazel/bazel-*
+*.log
+node_modules
+.gitkeep
+package-lock.json
+
+# Include when developing application packages.
+pubspec.lock
+.settings/
+*.swo
+*.swp
+modules/.settings
+.vimrc
+.nvimrc
+.idea
+
